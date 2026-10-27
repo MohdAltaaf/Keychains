@@ -33,6 +33,9 @@ both keychains run the **exact same code**. no "left" and "right" version, just 
 | SDA  | D4   |
 | SCL  | D5   |
 
+<img width="957" height="813" alt="image" src="https://github.com/user-attachments/assets/f6cd2212-c67d-434d-8679-c85a098df6d1" />
+
+
 battery goes on the BAT+ / BAT- pads on the underside of the board. put the switch on the **+ wire** so it cuts power when it's off. **double check the polarity** before connecting, reversing it can kill the board or the battery.
 
 the board charges the battery over USB-C, so you don't need a separate charger. heads up: when USB is plugged in the board turns on no matter what the switch says.
