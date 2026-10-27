@@ -34,6 +34,8 @@ both keychains run the **exact same code**. no "left" and "right" version, just 
 | SCL  | D5   |
 
 <img width="957" height="813" alt="image" src="https://github.com/user-attachments/assets/f6cd2212-c67d-434d-8679-c85a098df6d1" />
+<img width="953" height="706" alt="Screenshot 2026-10-27 165437" src="https://github.com/user-attachments/assets/df7d43ce-a0fd-48a0-8b8e-eb2c93f2f7b6" />
+
 
 
 battery goes on the BAT+ / BAT- pads on the underside of the board. put the switch on the **+ wire** so it cuts power when it's off. **double check the polarity** before connecting, reversing it can kill the board or the battery.
