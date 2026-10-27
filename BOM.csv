@@ -1,10 +1,9 @@
-| Component | Part | Qty | Unit Cost (INR) | Total (INR) | Supplier | Link |
-|---|---|---|---|---|---|---|
-| XIAO ESP32 | Seeed Studio XIAO ESP32C3 | 2 | 800 | 1600 | techiesms | [Link](https://techiesms.com/product/seeed-studio-xiao-esp32c3-the-smallest-esp32c3-development-board/) |
-| 1.3 inch OLED | I2C OLED 4-pin SH1106 | 2 | 350 | 700 | Controllerstech | [Link](https://shop.controllerstech.com/products/1-3-inch-i2c-oled-display-module-4pin-white-sh1106) |
-| LiPo Battery | KP 481035 150mAh 3.7V | 2 | 300 | 600 | Zbotic | [Link](https://zbotic.in/product/kp-original-481035-150mah-3-7vsingle-cell-rechargeable-lipo-battery/) |
-| Slide Switch | Mini SPDT slide switch 3-pin | 2 | 20 | 40 | Probots | [Link](https://probots.co.in/mini-spdt-slide-switch-3-pin-pcb-mount.html) |
-| 3D-printed enclosure | Custom print (own STL) | 2 | 150 | 300 | Self-printed | N/A |
-| **TOTAL (pair)** | | | | **3240** | | |
-
-
+Part Name,Quantity,Unit Price,Total Price,Purchase Link
+Seeed Studio XIAO ESP32C3,2,8.89$,17.78$,https://techiesms.com/product/seeed-studio-xiao-esp32c3-the-smallest-esp32c3-development-board/
+1.3 Inch I2C OLED 4-pin SH1106,2,3.89$,7.78$,https://shop.controllerstech.com/products/1-3-inch-i2c-oled-display-module-4pin-white-sh1106
+KP 481035 150mAh 3.7V LiPo Battery,2,3.33$,6.66$,https://zbotic.in/product/kp-original-481035-150mah-3-7vsingle-cell-rechargeable-lipo-battery/
+Mini SPDT Slide Switch 3-pin,2,0.22$,0.44$,https://probots.co.in/mini-spdt-slide-switch-3-pin-pcb-mount.html
+3D-printed enclosure (own STL),2,1.67$,3.34$,
+Delivery Charges and shipping (if applicable),,,10$,
+,,,,
+Grand Total,,,46.00$,
